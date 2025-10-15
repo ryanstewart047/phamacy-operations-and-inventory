@@ -1,0 +1,7 @@
+{
+    "resources/js/app.js": {
+        "file": "build/assets/app.js",
+        "isEntry": true,
+        "src": "resources/js/app.js"
+    }
+}
